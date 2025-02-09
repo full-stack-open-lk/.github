@@ -1,4 +1,4 @@
-# Full Stack Open Projects
+## Hi there 👋
 
 Welcome to the Full Stack Open Projects! These projects contain various front-end and back-end projects developed as part of the Full Stack Open course. 
 These projects cover a wide range of topics, including React, Node.js, Express, GraphQL, and more.
