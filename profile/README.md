@@ -7,7 +7,7 @@ These projects cover a wide range of topics, including React, Node.js, Express, 
 
 - [**Anecdotes**](https://github.com/full-stack-open-lk/anecdotes)
 - [**Unicafe**](https://github.com/full-stack-open-lk/unicafe)
-- [**CountryData**](https://github.com/full-stack-open-lk/countrydata) 
+- [**Country Data**](https://github.com/full-stack-open-lk/countrydata) 
 - [**Course Information**](https://github.com/full-stack-open-lk/course-information)
 - [**Phonebook**](https://github.com/full-stack-open-lk/phonebook)
 <!--
